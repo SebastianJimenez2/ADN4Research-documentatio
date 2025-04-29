@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md"
+                "file": "_excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-04-29 16.25.34.excalidraw"
@@ -23,14 +23,21 @@
             "id": "acae059d86094224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Alexis/Nota.md",
-                "mode": "source",
-                "source": false
+                "file": "1. General/TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Nota"
+              "icon": "lucide-trello",
+              "title": "TODO"
             }
           }
         ],
@@ -155,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexis/Nota.md",
+                "file": "1. General/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nota"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -205,22 +212,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "acae059d86094224",
+  "active": "195ee1cc6d0aefca",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md",
-    "Alexis/Nota.md",
-    "Excalidraw/Untitled Kanban 1.md",
+    "1. General/Anexo DTIC.pdf",
+    "1. General/5. Kick-off.md",
+    "1. General/4. 4P's.md",
+    "1. General/3. Preguntas.md",
+    "1. General/2. SRL.md",
+    "1. General/1. Conocimiento compartido.md",
+    "1. General/0. Plan DTIC.md",
+    "Sebastián/_Principal.md",
+    "_excalidraw/Untitled Kanban.md",
+    "Juan/_Principal.md",
+    "Jonathan/_Principal.md",
+    "Cristian/_Principal.md",
+    "Alexis/_Principal.md",
+    "1. General/TODO.md",
+    "_resources/Pasted image 20250429171238.png",
+    "_resources/Pasted image 20250429171151.png",
+    "_resources/Pasted image 20250429170526.png",
+    "_resources/Pasted image 20250429170343.png",
+    "_resources",
+    "_General/f_aa_233a_2025A_carlos_anchundia-signed.pdf.opdownload",
+    "_excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md",
+    "_excalidraw/Untitled Kanban 1.md",
     "2025-04-30.md",
-    "Excalidraw/Untitled Kanban.md",
     "Untitled.md",
-    "Excalidraw",
+    "_excalidraw",
     "Sebastián",
     "Jonathan",
     "Juan",
     "Cristian",
     "Alexis",
     "_Reuniones",
-    "_General",
     "_resources/Pasted image 20250424100051.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-04-25 07.40.30.excalidraw.md",
@@ -236,24 +260,6 @@
     "_resources/Pasted image 20250425094016.png",
     "_resources/Pasted image 20250425093503.png",
     "_resources/Pasted image 20250425093305.png",
-    "_resources/Pasted image 20250425092724.png",
-    "Excalidraw/Drawing 2025-04-25 07.40.51.excalidraw.md",
-    "Cursos/Laravel + Vue",
-    "_resources/Pasted image 20250424103452.png",
-    "_resources/Pasted image 20250424102753.png",
-    "Software/Gestión de proyectos de software/Sponsor.md",
-    "Software/Gestión de proyectos de software/Stakeholder.md",
-    "Software/Desarrollo de software seguro/Riesgo.md",
-    "_resources/Pasted image 20250424100249.png",
-    "resources",
-    "Software/Gestión de proyectos de software/resultado único.md",
-    "Software/Gestión de proyectos de software/temporal.md",
-    "Conocimiento general/Discovery.md",
-    "Cursos/C++/_C++.md",
-    "Conocimiento general/Doble diamante.md",
-    "Conocimiento general/Arquitectura C4.md",
-    "Conocimiento general/Arquitectura MVC.md",
-    "Conocimiento general/Git público-privado.md",
     "CODEIto/Pendientes.canvas",
     "Software/V&V/Cosas para investigar.canvas",
     "Software/V&V/Ingeniería de Software (mapa mental).canvas",
