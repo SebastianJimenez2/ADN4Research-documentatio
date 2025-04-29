@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_resources",
+  "promptDelete": false
+}
