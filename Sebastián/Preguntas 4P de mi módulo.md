@@ -1,10 +1,10 @@
 # Recordando un poco
 - **Planificación ¿?.** Base sobre la que se construye el proyecto. Se ponen los objetivos del proyecto, entregables, plazos y recursos necesarios.
-	- **Definicion de Objetivos**: Objetivos deben ser SMART (Específicos, Medibles, Alcanzables, Relevantes y con Tiempo definido).
-    - **Identificacion de Entregables:** Describir los productos o servicios que se entregaran al final del proyecto.
-    - **Creacion del Cronograma:** Un cronograma detallado que incluya todas las tareas y hitos del proyecto.
-    - **Asignacion de Recursos:** Determinar los recursos humanos, financieros y materiales necesarios.
-    - **Gestion de Riesgos:** Identificar posibles riesgos y desarrollar planes de mitigación
+	- **Definición de Objetivos**: Objetivos deben ser SMART (Específicos, Medibles, Alcanzables, Relevantes y con Tiempo definido).
+    - **Identificación de Entregables:** Describir los productos o servicios que se entregaran al final del proyecto.
+    - **Creación del Cronograma:** Un cronograma detallado que incluya todas las tareas y hitos del proyecto.
+    - **Asignación de Recursos:** Determinar los recursos humanos, financieros y materiales necesarios.
+    - **Gestión de Riesgos:** Identificar posibles riesgos y desarrollar planes de mitigación
 - **Proceso.** Actividades y tareas que se llevan a cabo para completar un proyecto.
 - **Persona.** Gestión del equipo de trabajo. Selección del equipo, la asignación de roles y responsabilidades, y la motivación y desarrollo del equipo.
 - **Producto.** Resultado final, tangible o específico. Validación del producto: ¿estamos construyendo el producto correcto?
