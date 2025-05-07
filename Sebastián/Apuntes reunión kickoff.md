@@ -1,5 +1,5 @@
 # **¿Qué disponibilidad de tiempo tiene para seguir teniendo reuniones de discusión?**
-Los stakeholders mencionaron que si pueden colaborar durante todo el proceso, sin embargo, uno de ellos destacó que para confirmar su asistencia debe conocer las fechas y eventos importantes para confirmar su asistencia.
+Los stakeholders mencionaron que si pueden colaborar durante todo el proceso, sin embargo, uno de ellos destacó que para confirmar su asistencia debe conocer las fechas y eventos importantes.
 # ¿Cómo realiza actualmente una revisión sistemática? (qué pasos se siguen, qué herramientas se utilizan)**
 ## Stakeholder 1 #JHONATTAN
 ### Herramientas que ha usado:
@@ -59,7 +59,7 @@ Problemas:
 - Al repartir las cosas se encuentra problemas, la división del estudio
 - Atlas no permite visualizar las notas entre investigadores
 - Proceso debe poder estar empaquetado, debe dar un resumen de todo el proceso, cada paso o cambio realizado, para que sea reproducible y transparente.
-## ¿Cómo será la colaboración entre revisores dentro de la RSL?
+# ¿Cómo será la colaboración entre revisores dentro de la RSL?
 ## Stakeholder 1
 - Tema de selección Rayyan ayudó mucho solo se dedicaba tiempo a la discusión.
 - Escritura del paper.
