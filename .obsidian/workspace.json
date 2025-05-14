@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sebastián/Apuntes reunión kickoff.md",
+                "file": "Sebastián/Discovery de mi módulo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apuntes reunión kickoff"
+              "title": "Discovery de mi módulo"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. General/5. Kick-off.md",
+                "file": "Juan/_Principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Kick-off"
+              "title": "_Principal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PROYECTO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +182,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -190,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,21 +203,23 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3b7ffd4396a509a9",
+  "active": "62f8448b3a16df11",
   "lastOpenFiles": [
-    "1. General/5. Kick-off.md",
+    "Sebastián/_Módulo de selección.md",
+    "Sebastián/Features propuestas 1.xlsx",
+    "Sebastián/Preguntas 4P de mi módulo.md",
     "Sebastián/Apuntes reunión kickoff.md",
+    "Sebastián/Features propuestas.xlsx",
+    "1. General/5. Kick-off.md",
+    "Sebastián/Discovery de mi módulo.md",
+    "Sebastián/Mi módulo.md",
     "1. General/0. Plan DTIC.md",
     "1. General/TODO.md",
-    "Sebastián/Preguntas 4P de mi módulo.md",
-    "Sebastián/_Módulo de selección.md",
     "_excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md",
-    "Sebastián/Mi módulo.md",
-    "Sebastián/Discovery de mi módulo.md",
     "_resources/Pasted image 20250505075318.png",
     "_resources/Pasted image 20250505075302.png",
     "1. General/Anexo DTIC.pdf",
@@ -243,15 +246,12 @@
     "Jonathan",
     "Juan",
     "Cristian",
-    "Alexis",
-    "_Reuniones",
     "_resources/Pasted image 20250424100051.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-04-25 07.40.30.excalidraw.md",
     "Cursos/Laravel + Vue/_Laravel + Vue.md",
     "Cursos/Laravel/LARAVEL.md",
     "Software/Web Apps Avanzadas/_Web Apps Avanzadas.md",
-    "Software/Gestión de proyectos de software/_Gestión de proyectos.md",
     "_resources/Pasted image 20250429080914.png",
     "_resources/Pasted image 20250425094700.png",
     "_resources/Pasted image 20250425094016.png",
