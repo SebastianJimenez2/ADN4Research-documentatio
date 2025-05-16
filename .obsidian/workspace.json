@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sebastián/Apuntes reunión kickoff.md",
+                "file": "1. General/1. Conocimiento compartido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apuntes reunión kickoff"
+              "title": "1. Conocimiento compartido"
+            }
+          },
+          {
+            "id": "41f8d68bcadf4ea0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-14 18.43.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-14 18.43.23.excalidraw"
+            }
+          },
+          {
+            "id": "c96b6bfb195e1965",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_excalidraw/Drawing 2025-05-14 18.43.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-14 18.43.23.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,24 +217,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "baa55fc476cfb879",
+  "active": "62f8448b3a16df11",
   "lastOpenFiles": [
-    "Sebastián/_Módulo de selección.md",
+    "_excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-14 18.12.35.excalidraw.md",
+    "_excalidraw/Drawing 2025-05-14 18.43.23.excalidraw.md",
+    "_resources/Pasted image 20250429170526_0.png",
+    "conflict-files-obsidian-git.md",
     "Sebastián/Apuntes reunión kickoff.md",
-    "1. General/5. Kick-off.md",
+    "1. General/1. Conocimiento compartido.md",
+    "1. General/4. 4P's.md",
+    "1. General/3. Preguntas.md",
+    "1. General/2. SRL.md",
     "1. General/0. Plan DTIC.md",
     "1. General/TODO.md",
+    "1. General/Anexo DTIC.pdf",
+    "Excalidraw",
+    "Sebastián/Features propuestas.xlsx",
+    "Sebastián/_Módulo de selección.md",
+    "1. General/5. Kick-off.md",
     "Sebastián/Preguntas 4P de mi módulo.md",
-    "_excalidraw/Drawing 2025-04-29 16.25.34.excalidraw.md",
     "Sebastián/Mi módulo.md",
     "Sebastián/Discovery de mi módulo.md",
     "_resources/Pasted image 20250505075318.png",
     "_resources/Pasted image 20250505075302.png",
-    "1. General/Anexo DTIC.pdf",
-    "1. General/4. 4P's.md",
-    "1. General/3. Preguntas.md",
-    "1. General/2. SRL.md",
-    "1. General/1. Conocimiento compartido.md",
     "_excalidraw/Untitled Kanban.md",
     "Juan/_Principal.md",
     "Jonathan/_Principal.md",
@@ -229,18 +260,11 @@
     "Jonathan",
     "Juan",
     "Cristian",
-    "Alexis",
-    "_Reuniones",
     "_resources/Pasted image 20250424100051.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-04-25 07.40.30.excalidraw.md",
-    "Cursos/Laravel + Vue/_Laravel + Vue.md",
-    "Cursos/Laravel/LARAVEL.md",
-    "Software/Web Apps Avanzadas/_Web Apps Avanzadas.md",
-    "Software/Gestión de proyectos de software/_Gestión de proyectos.md",
     "_resources/Pasted image 20250429080914.png",
     "_resources/Pasted image 20250425094700.png",
-    "_resources/Pasted image 20250425094016.png",
     "CODEIto/Pendientes.canvas",
     "Software/V&V/Cosas para investigar.canvas",
     "Software/V&V/Ingeniería de Software (mapa mental).canvas",

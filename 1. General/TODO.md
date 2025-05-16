@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## To Do
 
+- [ ] Hacer el objetivo específico de cada módulo
 - [ ] Investigar las mejores alternativas del proceso por cada chapter
 - [ ] Investigar herramientas por chapter
 - [ ] PMV de cada módulo (patineta hasta carro)
