@@ -11,6 +11,9 @@ Obtener información necesaria para contestar a la pregunta de investigación pl
 Este objetivo busca asegurar que el proceso de recolección y análisis de datos relevantes a partir de publicaciones científicas se realice de manera rigurosa, estructurada y confiable. La finalidad es garantizar que la información obtenida durante la revisión sistemática de la literatura (RSL) esté alineada con las preguntas de investigación formuladas, manteniendo altos estándares de calidad, trazabilidad y reproducibilidad.
 
 ---
+Mejorar la calidad, organización y utilidad de la información recolectada desde fuentes científicas, facilitando su análisis y vinculación directa con las preguntas de investigación planteadas. Este módulo busca asegurar que los datos extraídos sean relevantes, estructurados, consistentes y fácilmente trazables, contribuyendo así al desarrollo riguroso y colaborativo de estudios académicos.
+
+---
 
 ### **Objetivos específicos del módulo de extracción**
 
