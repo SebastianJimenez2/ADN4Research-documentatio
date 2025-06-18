@@ -1,0 +1,25 @@
+En grandes rasgos, la revisión sistemática de la literatura, en su fase de diseño, debe contemplar los siguientes pasos:
+1. **Inicio de la revisión (Review initiation):** Esta fase implica la formación del equipo de revisión y la participación de las partes interesadas (stakeholders). La involucración de los stakeholders se considera un elemento esencial para la toma de decisiones basada en la evidencia. <mark style="background: #ADCCFFA6;">Las perspectivas de estas partes pueden influir en las </mark><mark style="background: #ADCCFFA6;">preguntas de investigación</mark> importantes y en la interpretación de los hallazgos.
+2. **Pregunta de revisión y metodología (Review question & methodology):** En este paso, <mark style="background: #ADCCFFA6;">se formula la pregunta de revisión, se desarrolla el marco conceptual y se define el enfoque</mark>. La pregunta impulsa la elección de los métodos y es fundamental para enfocar el proceso de revisión. <mark style="background: #ADCCFFA6;">El marco conceptual actúa como una hipótesis de trabajo que puede ser desarrollada o refinada</mark> a lo largo de la investigación, explicando los temas clave a estudiar y las relaciones entre ellos.
+3. **Estrategia de búsqueda (Search strategy):** Se lleva a cabo una <mark style="background: #ADCCFFA6;">búsqueda y un selección inicial sistemática de los estudios para su inclusión, utilizando criterios de elegibilidad</mark>. El objetivo es identificar la investigación relevante, con un plan de búsqueda estructurado para minimizar el sesgo y asegurar la exhaustividad o la saturación conceptual, dependiendo del propósito de la revisión.
+4. **Descripción de las características del estudio (Description of study characteristics):** Se codifica la información para que coincida o construya un marco conceptual. Esto implica capturar las características de los estudios individuales de forma estructurada para permitir el análisis de temas y tendencias. Puede conducir a la creación de un mapa sistemático que describe la naturaleza del campo de investigación.
+5. **Evaluación de la calidad y relevancia (Quality and relevance assessment):** Se <mark style="background: #ADCCFFA6;">aplican criterios de evaluación de calidad para determinar cuán apropiados, fiables y relevantes son los estudios para responder a la pregunta de revisión</mark>. Esta evaluación es crucial para la credibilidad de la revisión y puede hacerse antes o durante la fase de síntesis, utilizando herramientas específicas de valoración crítica.
+6. **Síntesis (Synthesis):** Se utiliza el marco conceptual, los códigos de estudio y los juicios de calidad para combinar los resultados de los estudios de forma sistemática y apropiada. <mark style="background: #ADCCFFA6;">La síntesis transforma los datos de los estudios primarios para construir un "todo conectado"</mark>, generando nuevos conocimientos que van más allá de la suma de sus partes. Puede ser agregativa (sumar hallazgos) o configurativa (organizar hallazgos).
+		1. **Uso de las revisiones (Using reviews):** En la etapa final, se interpretan y comunican los hallazgos a las partes interesadas. El objetivo es que las revisiones sistemáticas informen la toma de decisiones en políticas y prácticas, asegurando que los resultados se presenten de manera comprensible y útil.
+***Todo esto fue tomado del libro: Systematic Reviews: Principles, Methods, and Applications.***
+
+# Apuntes de conversación con stackeholder
+1. El proceso de diseño, en simples palabras, tiene esta estructura: Preguntas de investigación -> Aplicación de criterios (picoc, peo, pcc) -> Cadena de búsqueda -> Criterios de inclusión y exclusión. 
+>[!note] Este proceso es un proceso iterativo. Al inicio, puedo trazar mi cadena de búsqueda y observar los papers que obtengo sin aplicar criterios de inclusión o exclusión (Fase Beta). Una vez se hace la revisión rápida de esos resultados preliminares, puedes empezar a escribir los criterios de inclusión y exclusión.
+
+2. **Problemas que se percibe al diseñar una investigación:** 
+	1. Falta de trazabilidad al momento de querer mejorar una cadena de búsqueda.
+	2. Falta de trazabilidad al momento de relacionar la pregunta de investigación con la cadena de búsqueda.
+	3. Falta de trazabilidad en la evolución de las preguntas de investigación y cadenas de búsqueda.
+	4. Como se pierde la traza, se hace difícil generar el documento para la reproducibilidad de la investigación en esta fase de la investigación. 
+3. **Ejemplos de como se lleva actualmente el diseño de la investigación:**
+![[WhatsApp Image 2025-06-15 at 19.15.37_966e0ce0.jpg]]
+![[WhatsApp Image 2025-06-15 at 19.15.50_bce5dcb7.jpg]]
+![[WhatsApp Image 2025-06-15 at 19.16.03_35b07d8f.jpg]]
+![[WhatsApp Image 2025-06-15 at 19.18.33_c0a218e4.jpg]]
+![[WhatsApp Image 2025-06-15 at 19.18.45_821a7977.jpg]]
